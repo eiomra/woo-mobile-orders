@@ -1,0 +1,125 @@
+    
+    .status-completed .status-text {
+        background-color: #C8D7E1;
+        border-radius: 4px;
+        color: #2E4453;
+        padding: 10px;
+    }
+    .status-cancelled .status-text {
+        background-color: #E5E5E5;
+        border-radius: 4px;
+        color: #777777;
+        padding: 10px;
+    }
+    .status-on-hold .status-text {
+        background-color: #F8DDA7;
+        border-radius: 4px;
+        color: #94660C;
+        padding: 10px;
+    }
+
+    .status-auto-draft .status-text {
+        background-color: #a7f8f1;
+        border-radius: 4px;
+        color: #777777;
+        padding: 10px;
+    }
+.status-pending .status-text { 
+background: #C6E1C6;
+border-radius: 4px;
+color: #5B841B;
+padding: 10px;
+}
+
+.status-processing .status-text { 
+    background: #C6E1C6;
+    border-radius: 4px;
+    color: #5B841B;
+    padding: 10px;
+    }
+body
+{
+    background-color: #f0f0f0 !important;
+}
+
+.tumazrebgor
+{
+    background-color: #fff !important; 
+padding: 20px 16px;
+border-bottom: 1px solid #EBEDEF;
+}
+.tumazrebgor a
+{
+    text-decoration: none;
+}
+.ordat
+{
+    color: #50575E;
+}
+.ordat2
+{
+    color: #1D2327;
+    font-weight: 400;
+}
+.tebgor
+{
+    background-color: #fff !important;
+    padding: 20px 16px;
+    margin-bottom: 20px;
+}
+
+.mtwov
+{
+padding: 4px 12px;
+background: #FFFFFF;
+border: 1px solid #2271B1;
+border-radius: 3px;
+color: #2271B1;
+}
+
+.mtwovu
+{
+padding: 4px 4px;
+background: #FFFFFF;
+border: 1px solid #949494 !important;
+font-weight: 800 !important;
+border-radius: 3px;
+color: #949494;
+}
+.mtwovt
+{
+padding: 4px 4px;
+font-weight: 800;
+background: #FFFFFF;
+border: 1px solid #2271B1;
+border-radius: 3px;
+color: #2271B1;
+}
+.pagtn
+{
+    margin-bottom: 50px !important;
+    font-size: 13px !important;
+}
+.tywooip
+{
+    width: 110% !important;
+    margin-left: 10 !important;
+    margin-right: auto !important;
+}
+
+.tcontaine
+{
+padding: 0 !important;
+margin-bottom: 20px;
+}
+
+.ttord
+{
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+color: #1E1E1E;
+}
+
+ 
+
